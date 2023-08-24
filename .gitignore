@@ -1,3 +1,10 @@
+# Mac OS Files
+.DS_Store
+archive
+
+# keras tuner files
+my_tuning_dir
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
